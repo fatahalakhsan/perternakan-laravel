@@ -139,9 +139,10 @@ Buka GitHub, buat **Pull Request** dari `fitur/api-ternak` ke `main`, tulis hasi
 
 | Anggota | Tugas | Bukti |
 |---|---|---|
-| ........ | Database: migrasi, seeder, schema.sql | `docs/schema.sql`, tabel terisi |
-| ........ | Backend: endpoint dan validasi | kode di branch fitur, hasil Postman |
-| ........ | Tes, dokumentasi, dan frontend awal (P7) | `php artisan test`, README |
+| Muhammad faturahman | Database: migrasi, seeder, schema.sql | `docs/schema.sql`, tabel terisi |
+| Lintar fatah | Backend: endpoint dan validasi | kode di branch fitur, hasil Postman |
+| Tahta khalifah alam | Tes, dokumentasi, dan frontend awal (P7) | `php artisan test`, README |
+| Muhammad Fachry Insani | Modul pesanan dan leads (menyusul sesuai WBS) | commit di GitHub |
 
 ## 9. Target Pertemuan 7
 
